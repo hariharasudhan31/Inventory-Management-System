@@ -21,18 +21,7 @@ The dashboard provides an overview of sales and profits in graphical format.
 - Key performance indicators (KPIs)  
 - Filter sales reports by time range  
 
----  
-
-## Employee Page  
-
-### Overview  
-This page manages employee details and their attendance records.  
-
-### Features  
-- Add, update, and delete employee details  
-- Mark employee attendance    
-
----  
+---   
 
 ## Product & Stock Page  
 
@@ -46,10 +35,10 @@ This page manages product details and stock levels.
 
 ---  
 
-## Homepage  
+## User  
 
 ### Overview  
-The homepage contains general business details and user information.  
+The user page contains general business details and user information.  
 
 ### Features  
 - Display company information  
