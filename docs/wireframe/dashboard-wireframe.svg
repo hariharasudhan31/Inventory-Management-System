@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#f5f5f5"/>
+    
+    <!-- Navigation Bar -->
+    <rect width="800" height="60" fill="#333"/>
+    <text x="50" y="35" font-family="Arial" font-size="16" fill="white">IMS</text>
+    <text x="700" y="35" font-family="Arial" font-size="14" fill="white">Logout</text>
+    
+    <!-- Sidebar -->
+    <rect width="200" height="540" y="60" fill="white" stroke="#ccc"/>
+    <text x="20" y="100" font-family="Arial" font-size="14">Dashboard</text>
+    <text x="20" y="140" font-family="Arial" font-size="14">Products</text>
+    <text x="20" y="180" font-family="Arial" font-size="14">User</text>
+    
+    <!-- KPI Cards -->
+    <rect x="220" y="80" width="180" height="100" fill="white" stroke="#ccc"/>
+    <text x="310" y="120" text-anchor="middle" font-family="Arial" font-size="14">Total Sales</text>
+    
+    <rect x="420" y="80" width="180" height="100" fill="white" stroke="#ccc"/>
+    <text x="510" y="120" text-anchor="middle" font-family="Arial" font-size="14">Total Profit</text>
+    
+    <rect x="620" y="80" width="180" height="100" fill="white" stroke="#ccc"/>
+    <text x="710" y="120" text-anchor="middle" font-family="Arial" font-size="14">Stock Value</text>
+    
+    <!-- Charts -->
+    <rect x="220" y="200" width="560" height="200" fill="white" stroke="#ccc"/>
+    <text x="500" y="300" text-anchor="middle" font-family="Arial" font-size="14">Sales Chart</text>
+    
+    <rect x="220" y="420" width="560" height="160" fill="white" stroke="#ccc"/>
+    <text x="500" y="500" text-anchor="middle" font-family="Arial" font-size="14">Profit Chart</text>
+</svg>
