@@ -1,0 +1,25 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#f5f5f5"/>
+    
+    <!-- Login Card -->
+    <rect x="250" y="100" width="300" height="400" fill="white" stroke="#ccc"/>
+    
+    <!-- Logo Space -->
+    <circle cx="400" cy="170" r="40" fill="#e0e0e0"/>
+    <text x="400" y="178" text-anchor="middle" font-family="Arial" font-size="14">LOGO</text>
+    
+    <!-- Login Form -->
+    <text x="280" y="250" font-family="Arial" font-size="14">Username</text>
+    <rect x="280" y="260" width="240" height="30" fill="white" stroke="#ccc"/>
+    
+    <text x="280" y="320" font-family="Arial" font-size="14">Password</text>
+    <rect x="280" y="330" width="240" height="30" fill="white" stroke="#ccc"/>
+    
+    <!-- Login Button -->
+    <rect x="280" y="390" width="240" height="40" fill="#4CAF50" rx="5"/>
+    <text x="400" y="415" text-anchor="middle" fill="white" font-family="Arial" font-size="14">LOGIN</text>
+    
+    <!-- Forgot Password Link -->
+    <text x="400" y="460" text-anchor="middle" font-family="Arial" font-size="12" fill="#666">Forgot Password?</text>
+</svg>

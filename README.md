@@ -1,6 +1,6 @@
 # Inventory-Management-System
 ## **Overview**
-    The overview of this project is to manage stocks,sales,profits of the business.Hello.
+    The overview of this project is to manage stocks,sales,profits of the business.
 
 ## **Objective**
     -The website will show the daily,weekly,monthly sales,profits.
